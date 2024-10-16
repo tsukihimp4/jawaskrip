@@ -10,5 +10,3 @@ arraySaya['jeruk'] = '🍊'
 
 // untuk mendapatkan hasil harus seperti ini
 console.log(arraySaya['jeruk']);
-
-// Kopi-kopian dalam sebuah array
