@@ -22,6 +22,6 @@ npm -v # should print `10.8.2`
 
 ```
 
-Download from
+Or download from
 
 https://nodejs.org/en
