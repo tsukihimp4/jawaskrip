@@ -1,6 +1,8 @@
 ### Hasil pembelajaran dan disaring agar lebih mudah
 
 gunakan Node.js untuk melakukan debug pada Javascript
+
+install Node JS
 ```bash
 
 # installs fnm (Fast Node Manager)
@@ -19,3 +21,7 @@ node -v # should print `v20.18.0`
 npm -v # should print `10.8.2`
 
 ```
+
+Download from
+
+https://nodejs.org/en
