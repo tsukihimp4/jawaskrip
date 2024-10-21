@@ -25,3 +25,8 @@ npm -v # should print `10.8.2`
 Or download from
 
 https://nodejs.org/en
+
+kemudian jalankan di terminal 
+```
+node script.js
+```
